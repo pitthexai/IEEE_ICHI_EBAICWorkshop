@@ -1,0 +1,1 @@
+This folder includes a sample imaging dataset along with manual segmentation masks
