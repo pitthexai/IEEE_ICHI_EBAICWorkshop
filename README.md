@@ -12,12 +12,8 @@
 ### Python code and Implementation
 <p align="justify">This GitHub repository also includes all Python codes and implementations tight to the current tutorial/hackathon.</p>
 
-
-+ <p align="justify"><strong>Extensive Coverage:</strong> The current textual dataset comprises over 69,000 scientific abstracts from PubMed, providing a comprehensive collection of research on total joint arthroplasty (TJA) from the year 2000 to 2022, with bi-monthly updates from new abstracts that will be published at PubMed.</p>
-+ <p align="justify"><strong>Providing Invaluable Information:</strong> Individual scientists from different disciplines will delve into this dataset, gaining new insights and enhance their understanding of joint diseases, ultimately contributing to improved patient care and clinical outcomes in TJA. </p>
-+ <p align="justify"><strong>Open Access for Scientific Research:</strong> Making this dataset publicly and freely available will foster open scientific research in the field of TJA.</p>
-+ <p align="justify"><strong>Supporting Evidence-Based Medicine</strong> The HexAI-TJAtxt empowers researchers and clinicians to make evidence-based decisions, facilitating literature reviews, meta-analyses, and systematic reviews related to TJA. </p>
-+ <p align="justify"><strong>Offering Interdisciplinary Research:</strong> The HexAI-TJAtxt dataset encourages collaboration and knowledge exchange between researchers from different disciplines. Orthopedic surgeons, geneticists, epidemiologists, data scientists, AI scientists, and other experts can explore the dataset together, fostering interdisciplinary research and facilitating a holistic understanding of TJA. </p>
-+ <p align="justify"><strong>Facilitating Rapid Text Analytics:</strong> The HexAI-TJAtxt dataset offers an opportunity for computational text analytics on a large-scale scientific literature. Researchers can employ natural language processing (NLP) techniques, machine learning algorithms, and other computational tools to extract valuable insights, discover patterns, and identify novel associations within the dataset, in a timely fashion. </p>
+### Instructors  
++ <p align="justify"><a href="https://pitthexai.github.io/people.html" target="_blank">Nickolas Littlefield</a>, MS (PhD Student), University of Pittsburgh.</p>
++ <p align="justify"><a href="https://pitthexai.github.io/people.html" target="_blank">Ahmad P. Tafti</a>, PhD, University of Pittsburgh.</p>
 
 ### The proposed pipeline to build the HexAI-TJAtxt textual dataset
