@@ -1,4 +1,4 @@
-# The First International Workshop on Ethics and Bias of Artificial Intelligence in Clinical Applications (EBAIC 2023) 
+# The First International Workshop on Ethics and Bias of Artificial Intelligence in Clinical Applications (<a href="https://pittnail.github.io/EBAIC" target="_blank">EBAIC 2023</a>) 
 # Tutorial/Hackathon at <a href="https://ieeeichi.github.io/ICHI2023" target="_blank">ICHI 2023</a>
 
 ## Track II: Medical Imaging 
