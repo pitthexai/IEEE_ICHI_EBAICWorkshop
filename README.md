@@ -8,6 +8,8 @@
 
 ### Dataset
 <p align="justify">We will be using knee/hip radiographs (X-rays) that are publicly available through the <a href="https://nda.nih.gov/oai" target="_blank">Osteoarthritis Initiative (OAI)</a>. You may want to create an account there and download knee/hip X-ray images. However, in this GitHub repository, we provide you with a sample subset of the images with manual segmentation masks. During the tutorial, we will be mainly using this sample data.</p>
+# <a href="https://ieeeichi.github.io/ICHI2023" target="_blank">Knee Sample Dataset</a>
+# <a href="https://ieeeichi.github.io/ICHI2023" target="_blank">Hip Sample Dataset</a>
 
 ### Python code and Implementation
 <p align="justify">This GitHub repository also includes all Python codes and implementations tight to the current tutorial/hackathon.</p>
