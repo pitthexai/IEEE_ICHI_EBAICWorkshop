@@ -8,7 +8,7 @@
 
 ### Dataset
 <p align="justify">We will be using knee/hip radiographs (X-rays) that are publicly available through the <a href="https://nda.nih.gov/oai" target="_blank">Osteoarthritis Initiative (OAI)</a>. You may want to create an account there and download knee/hip X-ray images. However, in this GitHub repository, we provide you with a sample subset of the images with manual segmentation masks. During the tutorial, we will be mainly using this sample data.</p>
-<strong> Knee Sample Dataset</strong> [<a href="" target="_blank">Download</a>]<br/>
+<strong> Knee Sample Dataset</strong> [<a href="https://drive.google.com/file/d/1OMkD6_NMlBdgTbamB09wREn3qpuA36ew/view?usp=sharing" target="_blank">Download</a>]<br/>
 <strong> Hip Sample Dataset</strong> [<a href="https://drive.google.com/file/d/1stpeJpWQ9yzCQJMYsRnQNvhsU29jsB5N/view?usp=sharing" target="_blank">Download</a>]<br/>
 
 ### Python code and Implementation
