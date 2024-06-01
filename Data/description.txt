@@ -1,1 +1,0 @@
-This GitHub repository includes two links to sample imaging datasets along with their manual segmentation masks. 

@@ -1,1 +1,0 @@
-This folder includes all Python codes and implementation to make fair AI models in hip/knee bony anatomy segmentation
