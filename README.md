@@ -16,7 +16,7 @@
 <hr>
 
 ## Past Workshops
-### EBAIC 2023 Workshop (ICHI 2023)
+### EBAIC 2023 Workshop (ICHI 2023, Houston, TX)
 + Track I: Clinical Natural Language Processing
 + Track II: Medical Imaging
 
