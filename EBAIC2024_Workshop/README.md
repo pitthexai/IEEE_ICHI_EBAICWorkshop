@@ -16,6 +16,6 @@
 
 ### Instructors  
 + <p align="justify"><a href="https://pitthexai.github.io/people.html" target="_blank">Nickolas Littlefield</a>, MS (PhD Student), University of Pittsburgh.</p>
-+ <p align="justify"><a href="https://pitthexai.github.io/people.html" target="_blank">Ahmad P. Tafti</a>, PhD, University of Pittsburgh.</p>
++ <p align="justify"><a href="https://pitthexai.github.io/people.html" target="_blank">Yanshan Wang</a>, PhD, University of Pittsburgh.</p>
 
 
