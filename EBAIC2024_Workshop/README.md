@@ -10,6 +10,9 @@
 <p align="justify">We will be using knee (X-rays) that are publicly available through the <a href="https://nda.nih.gov/oai" target="_blank">Osteoarthritis Initiative (OAI)</a>. You may want to create an account there and download knee images. However, in this GitHub repository, we provide you with a sample subset of the images with manual segmentation masks. During the tutorial, we will be mainly using this sample data.</p>
 <strong> Knee Sample Dataset</strong> [<a href="https://drive.google.com/file/d/1OMkD6_NMlBdgTbamB09wREn3qpuA36ew/view?usp=sharing" target="_blank">Download</a>]<br/>
 
+## Track III: Fairlearn: An open-source package to improve fairness of AI
+
+The field of fairness in AI systems is an interdisciplinary area of research and practice focused on understanding and mitigating the negative impacts of AI on society. In this tutorial, we utilize Fairlearn -- an open-source library designed to help improve the fairness of AI systems. In this tutorial, we consider an automated system for recommending patients for high-risk care management programs using a clincial dataset containing re-admissions over a ten-year period (1998-2008) for diabetic patients across 130 different hospitals within the US.
 
 ### Python code and Implementation
 <p align="justify">This GitHub repository also includes all Python codes and implementations tight to the current tutorial/hackathon.</p>
